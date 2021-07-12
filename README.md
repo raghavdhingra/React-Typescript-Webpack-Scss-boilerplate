@@ -1,1 +1,1 @@
-"# React-Typescript-Webpack-Scss-boilerplate" 
+# React-Typescript-Webpack-Scss-boilerplate
